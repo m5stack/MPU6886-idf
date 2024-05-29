@@ -31,7 +31,6 @@
 
 #include <freertos/FreeRTOS.h>
 #include <esp_log.h>
-#include <esp_idf_lib_helpers.h>
 #include "i2c_manager.h"
 #include "mpu6886.h"
 
